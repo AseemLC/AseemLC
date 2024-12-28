@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AseemLC
+- 👀 I’m interested in Backend development
+- 🌱 I’m currently learning PHP.
